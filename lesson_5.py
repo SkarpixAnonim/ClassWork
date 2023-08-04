@@ -4,7 +4,7 @@ import emoji
 from decouple import config
 from termcolor import cprint
 from person import Person
-
+#code start
 print(randint(2, 10))
 print(calculator.multiplication(4, 7))
 
